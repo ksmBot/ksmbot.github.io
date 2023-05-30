@@ -142,7 +142,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://b23.tv/U09RKL6">户山兔兔</a> .  Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://b23.tv/U09RKL6">户山兔兔</a> . `,
       },
       prism: {
         theme: lightCodeTheme,
