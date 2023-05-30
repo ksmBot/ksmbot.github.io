@@ -1,0 +1,22 @@
+{
+  "unversionedId": "CopyrightNotice",
+  "id": "CopyrightNotice",
+  "title": "📎版权说明",
+  "description": "Toyama-Kasumi",
+  "source": "@site/docs/CopyrightNotice.md",
+  "sourceDirName": ".",
+  "slug": "/CopyrightNotice",
+  "permalink": "/docs/CopyrightNotice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "😉兔兔的话",
+    "permalink": "/docs/talk"
+  }
+}

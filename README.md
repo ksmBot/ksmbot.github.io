@@ -1,19 +1,30 @@
-# ksmdocs
-ksm文档的docusaurus源文件
+# ksmの使用文档
 
-文档链接：https://ksmbot.github.io/
+如果你有兴趣帮助我们改进网站，或是添加一些内容，我们都欢迎━(*｀∀´*)ノ亻!  
+我们的网站完全使用 [Docusaurus 2](https://docusaurus.io/zh-CN/) 生成，一个现代化的静态网站生成器。浏览我们的站点：[ksmbot.github.io](https://ksmbot.github.io)
 
-# 下载
-使用指令 
+## 🎖️ 如何贡献
+
+### 小白教程：
+
+1. 将本仓库 fork 到自己的 github 账号并下载文件到本地
+2. 在文件夹内运行命令 `npm install`，等待依赖文件下载完成
+3. 在文件夹内运行命令 `npm run start` 启动实时预览服务器
+4. 编辑文件，浏览器转到 `localhost:3000` 实时预览页面
+5. 完成所有编辑工作后运行 `npm run build`，测试是否构建通过
+6. 将文件上传到自己仓库，然后向本仓库提交 pr
+
+### 高手教程：
+
+```bash
+$ git clone https://github.com/<your-name>/ksmbot.github.io.git
+$ cd ksmbot.github.io
+$ cnpm i
+$ code .
+$ cnpm start
+$ # 完成编辑后……
+$ git commit -m "..."
+$ git push
+$ # 提交pr即可
 ```
-git clone https://github.com/ksmBot/ksmdocs.git 
-```
-将其克隆到本地
 
-# 使用
-
-下载nodejs最新版本，使用test.bat启动本地调试工具，你的所有改动将实时生效
-
-# 编译 
-
-使用bulid.bat编译并使用git上传Pull Request

@@ -1,0 +1,195 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\ksmbot.github.io\\sidebars.js",
+          "contentPath": "C:\\ksmbot.github.io\\docs",
+          "contentPathLocalized": "C:\\ksmbot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "CopyrightNotice",
+              "id": "CopyrightNotice",
+              "title": "📎版权说明",
+              "description": "Toyama-Kasumi",
+              "source": "@site/docs/CopyrightNotice.md",
+              "sourceDirName": ".",
+              "slug": "/CopyrightNotice",
+              "permalink": "/docs/CopyrightNotice",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "😉兔兔的话",
+                "permalink": "/docs/talk"
+              }
+            },
+            {
+              "unversionedId": "help",
+              "id": "help",
+              "title": "📜ksm使用说明",
+              "description": "入群欢迎",
+              "source": "@site/docs/help.md",
+              "sourceDirName": ".",
+              "slug": "/help",
+              "permalink": "/docs/help",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🌟欢迎来到ksm的文档站",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "🎮ksm的MC服务器",
+                "permalink": "/docs/mc"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "🌟欢迎来到ksm的文档站",
+              "description": "ksm多可爱呀",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "📜ksm使用说明",
+                "permalink": "/docs/help"
+              }
+            },
+            {
+              "unversionedId": "mc",
+              "id": "mc",
+              "title": "🎮ksm的MC服务器",
+              "description": "与群里的米娜桑一起搭建的MC服务器",
+              "source": "@site/docs/mc.md",
+              "sourceDirName": ".",
+              "slug": "/mc",
+              "permalink": "/docs/mc",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "📜ksm使用说明",
+                "permalink": "/docs/help"
+              },
+              "next": {
+                "title": "😉兔兔的话",
+                "permalink": "/docs/talk"
+              }
+            },
+            {
+              "unversionedId": "talk",
+              "id": "talk",
+              "title": "😉兔兔的话",
+              "description": "&emsp;&emsp;一转眼，距离我第一次成功在终端上成功的运行ksm机器人，已经过去了快要半年了。这期间，我从只会导入别人写的插件，到开始自己编写ksm的相关功能。ksm的成长过程，也是我不断地学习新东西的过程，这期间也有遇到过很多问题，也得到了很多人的帮助，在此对支持我的大家表示由衷的谢意。",
+              "source": "@site/docs/talk.md",
+              "sourceDirName": ".",
+              "slug": "/talk",
+              "permalink": "/docs/talk",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🎮ksm的MC服务器",
+                "permalink": "/docs/mc"
+              },
+              "next": {
+                "title": "📎版权说明",
+                "permalink": "/docs/CopyrightNotice"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "help"
+              },
+              {
+                "type": "doc",
+                "id": "mc"
+              },
+              {
+                "type": "doc",
+                "id": "talk"
+              },
+              {
+                "type": "doc",
+                "id": "CopyrightNotice"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

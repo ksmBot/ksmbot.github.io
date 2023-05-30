@@ -20,6 +20,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ksmbot', // Usually your GitHub org/user name.
   projectName: 'ksmbot.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -136,13 +138,13 @@ const config = {
                 href: '/docs/mc',
               },
               {
-                label: 'GitHub文档站项目',
-                href: 'https://github.com/ksmbot',
+                label: 'GitHub文档站项目（欢迎前来改错）',
+                href: 'https://github.com/ksmBot/ksmbot.github.io',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://b23.tv/U09RKL6">户山兔兔</a> .  Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://b23.tv/U09RKL6">户山兔兔</a>`,
       },
       prism: {
         theme: lightCodeTheme,
