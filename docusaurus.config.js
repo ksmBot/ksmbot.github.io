@@ -144,11 +144,7 @@ const config = {
             ],
           },
         ],
-<<<<<<< HEAD
         copyright: `Copyright © ${new Date().getFullYear()} <a href="https://b23.tv/U09RKL6">户山兔兔</a>`,
-=======
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://b23.tv/U09RKL6">户山兔兔</a> . `,
->>>>>>> d53b1fd86fadf4d17f472f74e062cf6cb4b2e4a0
       },
       prism: {
         theme: lightCodeTheme,
