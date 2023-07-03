@@ -7,7 +7,7 @@ import './index.css'
 export default function () {
     return (
     
-        <Layout description='由户山兔兔开发的有趣的邦邦群bot'>
+        <Layout description='由户山兔兔开发的有趣的邦邦群户山香澄bot，ksm机器人，户山香澄机器人，qq机器人，'>
             <div id='index-page-container'>
                 <div id='index-page-bg'></div>
                 <div id='index-page-bg-mask'></div>
