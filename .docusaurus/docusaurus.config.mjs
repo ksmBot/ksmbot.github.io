@@ -28,10 +28,10 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "E:\\ksmbot.github.io\\sidebars.js"
+          "sidebarPath": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js"
         },
         "theme": {
-          "customCss": "E:\\ksmbot.github.io\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\src\\css\\custom.css"
         }
       }
     ]
