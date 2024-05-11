@@ -2,7 +2,11 @@
   "unversionedId": "help",
   "id": "help",
   "title": "📜ksm使用说明",
+<<<<<<< HEAD
   "description": "首先恭喜ksm打赢复活赛",
+=======
+  "description": "ksm2.0已推出！先庆祝一下ksm打赢复活赛",
+>>>>>>> f35fe459ef1d9a8f033faddb2c7b187631e83c60
   "source": "@site/docs/help.md",
   "sourceDirName": ".",
   "slug": "/help",
