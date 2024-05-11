@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js",
-          "contentPath": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\docs",
-          "contentPathLocalized": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js",
+          "contentPath": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\docs",
+          "contentPathLocalized": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "CopyrightNotice",
@@ -43,7 +43,7 @@
               "unversionedId": "help",
               "id": "help",
               "title": "📜ksm使用说明",
-              "description": "入群欢迎",
+              "description": "首先恭喜ksm打赢复活赛",
               "source": "@site/docs/help.md",
               "sourceDirName": ".",
               "slug": "/help",

@@ -43,9 +43,9 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-         
+
         },
-        
+
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -71,7 +71,7 @@ const config = {
             position: 'left',
             label: 'ksm',
           },
-	
+
           {
             href: 'https://github.com/ksmbot',
             label: 'GitHub',
@@ -122,13 +122,13 @@ const config = {
                 label: 'KanonBot',
                 href: 'https://www.bilibili.com/read/cv21464391',
               },
-              
+
             ],
           },
           {
             title: '更多',
             items: [
-              
+
               {
                 label: '我们的QQ群-欣遇庭',
                 href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Lqal0PCVCKBlG22gu-9soLlaRqffOpJA&authKey=Gh%2BoZD%2FWg2t8%2BT0jAkmQ7QLQblOHNw%2FSr5tQwoka5I55JW94TzFqNPdm7kM4gJUC&noverify=0&group_code=737704963',
