@@ -151,6 +151,14 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-};
+    scripts: [
+      {
+        src: 'https://static.cloudflareinsights.com/beacon.min.js',
+        async: true,
+        'data-cf-beacon': '{"token": "b9455c9a7ce14d83acc9e1552210c120"}',
+      },
+    ],
+  };
+  
 
 module.exports = config;

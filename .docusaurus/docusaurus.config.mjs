@@ -28,17 +28,10 @@ export default {
       "classic",
       {
         "docs": {
-<<<<<<< HEAD
           "sidebarPath": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js"
         },
         "theme": {
           "customCss": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\src\\css\\custom.css"
-=======
-          "sidebarPath": "/root/ksm doc/ksmbot.github.io/sidebars.js"
-        },
-        "theme": {
-          "customCss": "/root/ksm doc/ksmbot.github.io/src/css/custom.css"
->>>>>>> f35fe459ef1d9a8f033faddb2c7b187631e83c60
         }
       }
     ]
@@ -353,6 +346,13 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "scripts": [
+    {
+      "src": "https://static.cloudflareinsights.com/beacon.min.js",
+      "async": true,
+      "data-cf-beacon": "{\"token\": \"b9455c9a7ce14d83acc9e1552210c120\"}"
+    }
+  ],
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
@@ -361,7 +361,6 @@ export default {
   "customFields": {},
   "plugins": [],
   "themes": [],
-  "scripts": [],
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
