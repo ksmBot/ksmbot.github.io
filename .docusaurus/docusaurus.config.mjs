@@ -122,7 +122,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 <a href=\"https://b23.tv/U09RKL6\">户山兔兔</a>"
+      "copyright": "Copyright © 2025 <a href=\"https://b23.tv/U09RKL6\">户山兔兔</a>"
     },
     "prism": {
       "theme": {
