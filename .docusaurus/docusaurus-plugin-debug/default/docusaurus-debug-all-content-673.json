@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js",
-          "contentPath": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\docs",
-          "contentPathLocalized": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js",
+          "contentPath": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\docs",
+          "contentPathLocalized": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "CopyrightNotice",
