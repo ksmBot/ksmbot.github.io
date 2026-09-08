@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js",
-          "contentPath": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\docs",
-          "contentPathLocalized": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js",
+          "contentPath": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\docs",
+          "contentPathLocalized": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "CopyrightNotice",
@@ -117,7 +117,7 @@
               "unversionedId": "talk",
               "id": "talk",
               "title": "😉兔兔的话",
-              "description": "&emsp;&emsp;一转眼，距离我第一次成功在终端上成功的运行ksm机器人，已经过去了快要半年了。这期间，我从只会导入别人写的插件，到开始自己编写ksm的相关功能。ksm的成长过程，也是我不断地学习新东西的过程，这期间也有遇到过很多问题，也得到了很多人的帮助，在此对支持我的大家表示由衷的谢意。",
+              "description": "这个真的会有人看嘛",
               "source": "@site/docs/talk.md",
               "sourceDirName": ".",
               "slug": "/talk",

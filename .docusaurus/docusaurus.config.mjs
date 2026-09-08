@@ -28,10 +28,10 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js"
+          "sidebarPath": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\sidebars.js"
         },
         "theme": {
-          "customCss": "C:\\Users\\Daniel\\Documents\\ksmbot.github.io\\src\\css\\custom.css"
+          "customCss": "D:\\Users\\Daniel\\Documents\\ksmbot.github.io\\src\\css\\custom.css"
         }
       }
     ]
@@ -122,11 +122,7 @@ export default {
           ]
         }
       ],
-<<<<<<< HEAD
-      "copyright": "Copyright © 2025 <a href=\"https://b23.tv/U09RKL6\">户山兔兔</a>"
-=======
       "copyright": "Copyright © 2026 <a href=\"https://b23.tv/U09RKL6\">户山兔兔</a>"
->>>>>>> 9c3ab4dcf738a8042cbde7670bebb90b188d12eb
     },
     "prism": {
       "theme": {

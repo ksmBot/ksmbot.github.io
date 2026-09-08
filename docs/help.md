@@ -20,6 +20,7 @@ ksm文档站：[ksmbot.top](https://ksmbot.top)
 - `/ksm表情混合 on/off` - 开启/关闭表情混合功能
 - `关于ksm` - 获取关于ksm的信息
 - `ksm服务器状态` - 查看服务器运行状态
+- help 不用斜杠
 
 ## 入群欢迎
 
@@ -27,15 +28,11 @@ ksm文档站：[ksmbot.top](https://ksmbot.top)
 
 ## 图库
 
-输入 <code>二次元图库</code> 或 <code>ksm图库</code>
+输入`ksm图库`
 
 此方法图片来自兔兔和粉粉亲自筛选的pixiv图库
 
 即可获取图片
-
-
-
-
 
 
 
@@ -56,20 +53,15 @@ ksm文档站：[ksmbot.top](https://ksmbot.top)
 
 ~~（P.S.：以上都是废话）~~
 
-使用<code>答案之书 xxxx</code>获取答案
-
-## 计算器功能
-
-- `/cal <js表达式>` - 使用JavaScript表达式进行计算
-- `/cal help` - 查看计算器操作指南
+使用 `答案之书 xxxx` 获取答案
 
 ## 表情相关
 
-<code>/获取表情</code> - 引用表情后尝试获取原图
+- `/获取表情` - 引用表情后尝试获取原图
 
 ## Bangpic功能
 
-<code>bangpic xxx @xxxx</code> - 生成某人的邦邦样式对话句子
+- `bangpic xxx @xxxx` - 生成某人的邦邦样式对话句子
 
 ## 任意数字生成homo算式
 
@@ -77,30 +69,30 @@ ksm文档站：[ksmbot.top](https://ksmbot.top)
 
 你是一只ksm啊啊啊啊啊啊
 
-输入<code>homo 数字</code>就能用了啊啊啊啊啊啊
+输入 `homo 数字` 就能用了啊啊啊啊啊啊
 
 ## ksm查天气
 
-输入<code>ksm查天气xx市</code>查询你所在地的天气
+输入 `ksm查天气xx市` 查询你所在地的天气
 
 ## ksm占卜
 
-输入<code>ksm占卜</code>获得一张塔罗牌吧！
+输入 `ksm占卜` 获得一张塔罗牌吧！
 
-## 📋 BandoriStation 车牌查询
+## 📋 BangdoriStation 车牌查询
 
-BandoriStation车牌查询系统
+BangdoriStation车牌查询系统
 
 ### 使用指令
 
 - `ycm` / `车来` / `有车吗` - 查询所有车牌
 - `ycm <关键词>` - 按关键词搜索车牌
-- `/bandori online` - 查看在线人数
-- `/bandori status` - 查看本群配置
-- `/bandori off` - 关闭本群自动检测
-- `/bandori on` - 重新开启本群自动检测
-- `/bandori submit on/off` - 本群自动提交开关
-- `/bandori reload` - 重新加载配置
+- `/bangdori online` - 查看在线人数
+- `/bangdori status` - 查看本群配置
+- `/bangdori off` - 关闭本群自动检测
+- `/bangdori on` - 重新开启本群自动检测
+- `/bangdori submit on/off` - 本群自动提交开关
+- `/bangdori reload` - 重新加载配置
 
 ## 📋 TsuguBot
 
@@ -301,20 +293,13 @@ End Time            //有效信息只有"End"
 
 ## 词云功能
 
-- `/wordcloud` - 分析群词云
-- `/wordcloud help` - 词云功能帮助
-
-在群内发送以下指令来使用：
-
-- `本日词云`
-- `昨日词云`
-- `获取词云`
-
-也可以发送以下指令获取指定用户的词云：
-
-- `用户本日词云@用户`
-- `用户昨日词云@用户`
-- `用户本月词云@用户`
+- `/wordcloud` - 生成本群近24小时词云
+- `/wordcloud -t <小时>` - 指定时间范围（1-26280小时，即最长3年）
+- `/wordcloud -u <QQ号>` - 本群指定用户的词云
+- `/wordcloud -me` - 自己的所有（ksm在的）群的24h内词云
+- `/wordcloud -me -t <小时>` - 指定时间范围（最长3年）
+- `/wordcloud -me -g <群号>` - 自己指定群的词云
+- `/wordcloud help` - 显示此帮助
 
 ***
 
@@ -328,9 +313,7 @@ End Time            //有效信息只有"End"
 
 ## 暂时关闭的功能
 
-### ksm发病功能
-
-<code>/ksm发病 xxxxx</code> - 此功能已关闭
+- `/ksm发病 xxxxx` - 此功能已关闭
 
 ***
 
