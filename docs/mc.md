@@ -6,7 +6,7 @@ sidebar_position: 3
 
 与群里的米娜桑一起搭建的MC服务器
 
-![](http://motd.imc.re/status_img?host=ksmkawaii.top:10086)
+
 
 ![](./img/mcmap.jpg)
 
@@ -19,7 +19,7 @@ sidebar_position: 3
 纯原版生存，一切插件都是为了更好的原始生存
 
 # 图片欣赏
-![](./img/mc_4.jpg)
+
 
 ![](./img/mc_1.jpg)
 
@@ -28,6 +28,8 @@ sidebar_position: 3
 
 
 ![](./img/mc_3.jpg)
+
+![](./img/mc_4.jpg)
 
 
 
