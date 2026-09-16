@@ -103,16 +103,16 @@ const config = {
             title: '友情链接',
             items: [
               {
-                label: '户山兔兔的哔哩哔哩主页',
-                href: 'https://b23.tv/U09RKL6',
+                label: 'Daniel兔兔的哔哩哔哩主页',
+                href: 'https://space.bilibili.com/1333478733',
               },
               {
                 label: 'ksmbot的哔哩哔哩主页',
-                href: 'https://b23.tv/RqRNoYl',
+                href: 'https://space.bilibili.com/1184917886',
               },
               {
-                label: '小小趴bot by Kumo',
-                href: 'http://xiaoxiaopa.com',
+                label: 'Tsugu-bangdream-bot',
+                href: 'https://github.com/Yamamoto-2/tsugu-bangdream-bot',
               },
               {
                 label: '另一只可爱的Kasumi Bot by 吉太',
@@ -120,7 +120,7 @@ const config = {
               },
               {
                 label: 'KanonBot',
-                href: 'https://www.bilibili.com/read/cv21464391',
+                href: 'https://space.bilibili.com/1376956311',
               },
 
             ],
@@ -144,7 +144,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://b23.tv/U09RKL6">户山兔兔</a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://danieluu.top">户山兔兔</a>`,
       },
       prism: {
         theme: lightCodeTheme,
