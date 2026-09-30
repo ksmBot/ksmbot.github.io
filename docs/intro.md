@@ -67,9 +67,9 @@ ksm的系统已全面升级，新用户请认真阅读以下规则，然后点�
 11.私聊无功能，唯一私聊用到的功能是发群邀请bot会对比你的群号和网页是否一致。
 
 你添加ksm到群聊将意味着你已经知晓以上内容。
-[开始加群](https://p.danieltoyama.fun:39000/addksmbot/)
+[开始加群](https://p.danieluu.top:39000/addksmbot/)
 
-[或者只添加ksm好友](https://p.danieltoyama.fun:39000/addksmbot/friend.html)
+[或者只添加ksm好友](https://p.danieluu.top:39000/addksmbot/friend.html)
 
 
 ksmbot是一个纯基于我的爱好而开发的QQ机器人，我没有深入的对编程进行学习，倘若有任何问题还请多多包涵。希望你也能够多多支持我们哦！
